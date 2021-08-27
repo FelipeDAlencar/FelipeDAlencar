@@ -22,9 +22,9 @@
   <img align="center" alt="Felipe-materialui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg">
 
 </div>
-  
-  ##
+ 
  # ✉️ Contacts
+ 
 <div> 
   <a href="linkedin.com/in/felipedalencar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="fdouglas7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
