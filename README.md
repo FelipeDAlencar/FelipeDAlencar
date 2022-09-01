@@ -1,5 +1,11 @@
 # Hi 👋, I'm Felipe Alencar
 
+<div align="center">
+  <a href="https://github.com/FelipeDAlencar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDAlencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDAlencar&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
  
 # 💻 Technologies
 
@@ -31,8 +37,8 @@
  
 </div>
 
-#### - 🔭 I’m currently working on department of T.I on **Casas Bandeirantes**
-#### - 🌱 I’m currently learning **Internet of Things (Arduino) and SpringBoot **
+#### - 🔭 I’m currently working on Jonnpo Tecnologia**
+#### - 🌱 I’m currently learning **TypeScript, nodeJS**
 #### - 💬 Ask me about **JavaScript, JQuery, Python, Java, Django, JPA, Flutter**
       
 
