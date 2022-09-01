@@ -1,10 +1,5 @@
 # Hi 👋, I'm Felipe Alencar
 
- <div>
-  <a href="https://github.com/FelipeDAlencar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDAlencar&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDAlencar&layout=compact&langs_count=7&theme=slateorange"/>
-</div>
  
 # 💻 Technologies
 
