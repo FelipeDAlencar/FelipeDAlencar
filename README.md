@@ -38,7 +38,7 @@
 </div>
 
 #### - 🔭 I’m currently working on Jonnpo Tecnologia**
-#### - 🌱 I’m currently learning **TypeScript, nodeJS**
+#### - 🌱 I’m currently learning **TypeScript and NodeJS**
 #### - 💬 Ask me about **JavaScript, JQuery, Python, Java, Django, JPA, Flutter**
       
 
