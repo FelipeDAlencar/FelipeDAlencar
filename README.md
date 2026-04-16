@@ -1,45 +1,104 @@
-# Hi 👋, I'm Felipe Alencar
+# 👋 Hi, I'm Felipe Alencar
+
+<div align="center">
+
+### 🚀 Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Python;React+%7C+TypeScript+%7C+Node.js;Always+learning+new+things+🚀" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+* 🎓 Bachelor's degree in Information Systems
+* 💻 Full Stack Developer
+* 🌱 Learning **TypeScript** and **Node.js**
+* 💬 Ask me about **Java, Spring Boot, Python, Django, Flutter, TypeScript and Node.js**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/FelipeDAlencar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDAlencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDAlencar&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDAlencar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDAlencar&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
- 
-# 💻 Technologies
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Felipe-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-  <img align="center" alt="Felipe-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Felipe-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-  <img align="center" alt="Felipe-materialui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg">
-  <img align="center" alt="Felipe-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg">
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,django" />
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter" />
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
- 
- # ✉️ Contacts
- 
-<div> 
-  <a href="https://linkedin.com/in/felipedalencar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:fdouglas7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/felipe.santos.31392" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/alencar.felipee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- 
-  ![Snake animation](https://github.com/FelipeDAlencar/FelipeDAlencar/blob/output/github-contribution-grid-snake.svg)
- 
+---
+
+## 🚀 Featured Projects
+<!--
+<div align="center">
+
+<a href="https://github.com/FelipeDAlencar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDAlencar&repo=SEU_REPOSITORIO_AQUI&theme=dracula" />
+</a>
+
+<a href="https://github.com/FelipeDAlencar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDAlencar&repo=OUTRO_REPO_AQUI&theme=dracula" />
+</a>
+
+</div>
+-->
+
+---
+
+## ✉️ Connect with me
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/felipedalencar" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:fdouglas7@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/alencar.felipee/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
-#### - 🔭 I’m currently working on Jonnpo Tecnologia**
-#### - 🌱 I’m currently learning **TypeScript and NodeJS**
-#### - 💬 Ask me about **JavaScript, JQuery, Python, Java, Django, JPA, Flutter**
-      
+---
 
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://github.com/FelipeDAlencar/FelipeDAlencar/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelipeDAlencar&color=blueviolet" />
+</div>
+
+---
