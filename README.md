@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Python;React+%7C+TypeScript+%7C+Node.js;Always+learning+new+things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Flutter;Vue.js;Always+learning+new+things+🚀" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 * 🎓 Bachelor's degree in Information Systems
 * 💻 Full Stack Developer
-* 🌱 Learning **TypeScript** and **Node.js**
+* 🌱 Learning **.Net** 
 * 💬 Ask me about **Java, Spring Boot, Python, Django, Flutter, TypeScript and Node.js**
 
 ---
